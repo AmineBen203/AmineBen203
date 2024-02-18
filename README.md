@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **FrontEnd, C#**
 
-💬 Ask me about **nything [here](https://github.com/AmineBen203/AmineBen203/issues)**
+💬 Ask me about **anything [here](https://github.com/AmineBen203/AmineBen203/issues)**
 
 ⚡ Fun fact **Gaming is good**
 
@@ -24,9 +24,6 @@
   <a href="https://linkedin.com/in/mohamed-amine-ben-ahmed-759121255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://AmineBen203.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
@@ -34,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
