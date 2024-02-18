@@ -20,15 +20,13 @@
 
  </div>
  
-<div align="center"> 
-  <a href="https://linkedin.com/in/mohamed-amine-ben-ahmed-759121255/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-    <a href="https://twitter.com/bruce_wayne35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bruce_wayne35" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/bruce_wayne35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bruce_wayne35" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-amine-ben-ahmed-759121255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-ben-ahmed-759121255" height="30" width="40" /></a>
 <a href="https://instagram.com/bruce.wayne39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bruce.wayne39" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucxj2nnpbb6oxdcaisfbo3aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxj2nnpbb6oxdcaisfbo3aa" height="30" width="40" /></a>
 <a href="https://discord.gg/305805435653586945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="305805435653586945" height="30" width="40" /></a>
-</div>
+</p>
 
  <hr/>
  
@@ -41,6 +39,9 @@
 
 <br/>
 <hr/>
+
+<h3 align="left">Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
