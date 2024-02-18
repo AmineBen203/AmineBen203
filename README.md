@@ -24,6 +24,10 @@
   <a href="https://linkedin.com/in/mohamed-amine-ben-ahmed-759121255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://twitter.com/bruce_wayne35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bruce_wayne35" height="30" width="40" /></a>
+<a href="https://instagram.com/bruce.wayne39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bruce.wayne39" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucxj2nnpbb6oxdcaisfbo3aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxj2nnpbb6oxdcaisfbo3aa" height="30" width="40" /></a>
+<a href="https://discord.gg/305805435653586945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="305805435653586945" height="30" width="40" /></a>
 </div>
 
  <hr/>
