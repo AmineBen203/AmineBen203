@@ -18,6 +18,10 @@
 
 ⚡ Fun fact **Gaming is good**
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@amineben23/30-nites-of-code)  
+  ![@amineben23 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amineben23)
+
  </div>
 
 <h2 align="center">Connect with me!</h2>
