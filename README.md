@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AmineBen203.AmineBen203" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=F736D5&lines=Hey+there!+What+brought+you+here+%3AD;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F736D5&width=435&lines=Hey+there!+What+brought+you+here+%3AD" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate software developer from Morocco </h3>
